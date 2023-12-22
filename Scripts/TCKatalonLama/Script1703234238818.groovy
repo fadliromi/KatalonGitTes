@@ -17,8 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-<<<<<<< HEAD
-2
-=======
-1
->>>>>>> branch 'master' of https://github.com/fadliromi/KatalonGitTes.git
+
