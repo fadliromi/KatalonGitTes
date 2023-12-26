@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>C%%Users%Fadli%git%KatalonBaruGitTes4%KatalonGitTes2.prj</name>
+=======
+	<name>C%%Users%Fadli%git%KatalonGitTes4%KatalonGitTes2.prj</name>
+>>>>>>> branch 'master' of https://github.com/fadliromi/KatalonGitTes.git
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,7 +21,11 @@
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1703565114391</id>
+=======
+			<id>1703564971936</id>
+>>>>>>> branch 'master' of https://github.com/fadliromi/KatalonGitTes.git
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -26,7 +34,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1703565114391</id>
+=======
+			<id>1703564971936</id>
+>>>>>>> branch 'master' of https://github.com/fadliromi/KatalonGitTes.git
 			<name></name>
 			<type>6</type>
 			<matcher>
